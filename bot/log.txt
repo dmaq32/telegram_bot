@@ -1,0 +1,409 @@
+2025-12-08 at 00:18:08 | INFO | Бот успешно запущен.
+2025-12-08 at 00:18:11 | ERROR | Бот остановлен!
+2025-12-08 at 00:19:13 | INFO | Бот успешно запущен.
+2025-12-08 at 00:19:31 | ERROR | Бот остановлен!
+2025-12-08 at 00:19:34 | INFO | Бот успешно запущен.
+2025-12-08 at 00:19:49 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 00:19:49 | INFO | Запись не найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 00:19:49 | INFO | Добавление записи User с параметрами: {'telegram_id': 942106914, 'username': 'dmaqlfg', 'first_name': 'dmaq', 'last_name': None}
+2025-12-08 at 00:19:49 | INFO | Запись User успешно добавлена.
+2025-12-08 at 00:41:30 | ERROR | Бот остановлен!
+2025-12-08 at 00:41:35 | INFO | Бот успешно запущен.
+2025-12-08 at 00:41:39 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 00:41:39 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 00:54:52 | ERROR | Бот остановлен!
+2025-12-08 at 00:54:56 | INFO | Бот успешно запущен.
+2025-12-08 at 00:54:59 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 00:57:15 | ERROR | Бот остановлен!
+2025-12-08 at 00:57:19 | INFO | Бот успешно запущен.
+2025-12-08 at 00:57:21 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 00:57:21 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:00:09 | ERROR | Бот остановлен!
+2025-12-08 at 01:00:13 | INFO | Бот успешно запущен.
+2025-12-08 at 01:01:11 | ERROR | Бот остановлен!
+2025-12-08 at 01:01:15 | INFO | Бот успешно запущен.
+2025-12-08 at 01:02:24 | ERROR | Бот остановлен!
+2025-12-08 at 01:02:27 | INFO | Бот успешно запущен.
+2025-12-08 at 01:02:30 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:02:30 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:03:15 | ERROR | Бот остановлен!
+2025-12-08 at 01:03:17 | INFO | Бот успешно запущен.
+2025-12-08 at 01:05:15 | ERROR | Бот остановлен!
+2025-12-08 at 01:08:00 | INFO | Бот успешно запущен.
+2025-12-08 at 01:08:03 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:08:04 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:08:06 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:08:06 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:08:25 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:08:25 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:10:58 | ERROR | Бот остановлен!
+2025-12-08 at 01:11:02 | INFO | Бот успешно запущен.
+2025-12-08 at 01:11:05 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:11:05 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:11:08 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:11:08 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:11:33 | ERROR | Бот остановлен!
+2025-12-08 at 01:11:36 | INFO | Бот успешно запущен.
+2025-12-08 at 01:11:38 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:11:38 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:11:40 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:11:40 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:12:14 | ERROR | Бот остановлен!
+2025-12-08 at 01:12:30 | INFO | Бот успешно запущен.
+2025-12-08 at 01:12:34 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:12:34 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:12:39 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:12:39 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:15:34 | ERROR | Бот остановлен!
+2025-12-08 at 01:15:44 | INFO | Бот успешно запущен.
+2025-12-08 at 01:15:47 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:15:47 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:15:51 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:15:51 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:25:47 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 01:39:49 | ERROR | Бот остановлен!
+2025-12-08 at 01:41:46 | INFO | Бот успешно запущен.
+2025-12-08 at 01:41:50 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:41:50 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:41:51 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:41:51 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:42:24 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:42:24 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:42:55 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 01:43:52 | ERROR | Бот остановлен!
+2025-12-08 at 01:43:55 | INFO | Бот успешно запущен.
+2025-12-08 at 01:43:56 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:43:56 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:43:58 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:43:58 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:45:02 | ERROR | Бот остановлен!
+2025-12-08 at 01:45:11 | INFO | Бот успешно запущен.
+2025-12-08 at 01:45:14 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:45:14 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:45:16 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:45:16 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 01:45:35 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134013_7581250851600810132', 'price': 199}
+2025-12-08 at 01:45:35 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 01:46:02 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 01:46:07 | ERROR | Бот остановлен!
+2025-12-08 at 11:12:31 | INFO | Бот успешно запущен.
+2025-12-08 at 11:12:38 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:12:38 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:12:49 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:12:49 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:13:54 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134102_7581397117230757840', 'price': 199}
+2025-12-08 at 11:13:54 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 11:14:00 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 11:14:12 | ERROR | Бот остановлен!
+2025-12-08 at 11:15:05 | INFO | Бот успешно запущен.
+2025-12-08 at 11:15:09 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 893656930}
+2025-12-08 at 11:15:09 | INFO | Запись не найдена по фильтрам: {'telegram_id': 893656930}
+2025-12-08 at 11:15:09 | INFO | Добавление записи User с параметрами: {'telegram_id': 893656930, 'username': 'loonistblessed', 'first_name': 'inutile', 'last_name': None}
+2025-12-08 at 11:15:09 | INFO | Запись User успешно добавлена.
+2025-12-08 at 11:15:21 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 893656930}
+2025-12-08 at 11:15:21 | INFO | Запись найдена по фильтрам: {'telegram_id': 893656930}
+2025-12-08 at 11:16:30 | INFO | Добавление записи Purchase с параметрами: {'user_id': 2, 'payment_id': '8370655260_893656930_785602_7581397774894397100', 'price': 199}
+2025-12-08 at 11:16:30 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 11:16:39 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:16:39 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:16:42 | INFO | Статистика успешно получена: {'total_users': 2, 'new_today': 2, 'new_week': 2, 'new_month': 2}
+2025-12-08 at 11:16:48 | ERROR | Бот остановлен!
+2025-12-08 at 11:18:05 | INFO | Бот успешно запущен.
+2025-12-08 at 11:18:27 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:18:27 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:18:50 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 1004108927}
+2025-12-08 at 11:18:50 | INFO | Запись не найдена по фильтрам: {'telegram_id': 1004108927}
+2025-12-08 at 11:18:50 | INFO | Добавление записи User с параметрами: {'telegram_id': 1004108927, 'username': 'vicious_19', 'first_name': 'Вика✨', 'last_name': None}
+2025-12-08 at 11:18:50 | INFO | Запись User успешно добавлена.
+2025-12-08 at 11:19:12 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 1004108927}
+2025-12-08 at 11:19:12 | INFO | Запись найдена по фильтрам: {'telegram_id': 1004108927}
+2025-12-08 at 11:30:58 | INFO | Статистика успешно получена: {'total_users': 3, 'new_today': 3, 'new_week': 3, 'new_month': 3}
+2025-12-08 at 11:33:36 | INFO | Добавление записи Purchase с параметрами: {'user_id': 3, 'payment_id': '8370655260_1004108927_478524_7581402331786118144', 'price': 199}
+2025-12-08 at 11:33:36 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 11:33:45 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:33:45 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:33:48 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:33:48 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:34:16 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134156_7581402524838067200', 'price': 199}
+2025-12-08 at 11:34:16 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 11:34:56 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:34:56 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 11:35:11 | INFO | Статистика успешно получена: {'total_users': 3, 'new_today': 3, 'new_week': 3, 'new_month': 3}
+2025-12-08 at 11:35:18 | INFO | Статистика успешно получена: {'total_users': 3, 'new_today': 3, 'new_week': 3, 'new_month': 3}
+2025-12-08 at 11:44:12 | ERROR | Бот остановлен!
+2025-12-08 at 18:33:39 | INFO | Бот успешно запущен.
+2025-12-08 at 18:33:40 | ERROR | Бот остановлен!
+2025-12-08 at 18:33:57 | INFO | Бот успешно запущен.
+2025-12-08 at 18:34:00 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:34:00 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:34:30 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:34:30 | INFO | Запись не найдена по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:34:30 | INFO | Добавление записи User с параметрами: {'telegram_id': 495774145, 'username': 'Valyut1975', 'first_name': 'Valeriy', 'last_name': 'Iutukov'}
+2025-12-08 at 18:34:30 | INFO | Запись User успешно добавлена.
+2025-12-08 at 18:35:02 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:35:02 | INFO | Запись найдена по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:35:40 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:35:40 | INFO | Запись найдена по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:35:43 | INFO | Статистика успешно получена: {'total_users': 4, 'new_today': 4, 'new_week': 4, 'new_month': 4}
+2025-12-08 at 18:35:47 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:35:47 | INFO | Запись найдена по фильтрам: {'telegram_id': 495774145}
+2025-12-08 at 18:37:24 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:37:24 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:39:19 | INFO | Добавление записи Purchase с параметрами: {'user_id': 4, 'payment_id': '8370655260_495774145_126289_7581511865243097088', 'price': 199}
+2025-12-08 at 18:39:19 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 18:39:41 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:39:41 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:40:01 | INFO | Статистика успешно получена: {'total_users': 4, 'new_today': 4, 'new_week': 4, 'new_month': 4}
+2025-12-08 at 18:40:08 | ERROR | Бот остановлен!
+2025-12-08 at 18:41:36 | INFO | Бот успешно запущен.
+2025-12-08 at 18:44:37 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 264899713}
+2025-12-08 at 18:44:37 | INFO | Запись не найдена по фильтрам: {'telegram_id': 264899713}
+2025-12-08 at 18:44:37 | INFO | Добавление записи User с параметрами: {'telegram_id': 264899713, 'username': 'komoreb_i', 'first_name': 'komoreb1', 'last_name': None}
+2025-12-08 at 18:44:37 | INFO | Запись User успешно добавлена.
+2025-12-08 at 18:44:45 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 264899713}
+2025-12-08 at 18:44:45 | INFO | Запись найдена по фильтрам: {'telegram_id': 264899713}
+2025-12-08 at 18:44:51 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 264899713}
+2025-12-08 at 18:44:51 | INFO | Запись найдена по фильтрам: {'telegram_id': 264899713}
+2025-12-08 at 18:45:13 | INFO | Поиск одной записи User по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:45:13 | INFO | Запись найдена по фильтрам: {'telegram_id': 942106914}
+2025-12-08 at 18:45:15 | INFO | Статистика успешно получена: {'total_users': 5, 'new_today': 5, 'new_week': 5, 'new_month': 5}
+2025-12-08 at 18:45:18 | INFO | Статистика успешно получена: {'total_users': 5, 'new_today': 5, 'new_week': 5, 'new_month': 5}
+2025-12-08 at 18:45:47 | ERROR | Бот остановлен!
+2025-12-08 at 19:35:49 | INFO | Бот успешно запущен.
+2025-12-08 at 19:35:52 | ERROR | Бот остановлен!
+2025-12-08 at 19:40:42 | INFO | Бот успешно запущен.
+2025-12-08 at 19:41:27 | ERROR | Бот остановлен!
+2025-12-08 at 19:41:30 | INFO | Бот успешно запущен.
+2025-12-08 at 19:43:19 | ERROR | Бот остановлен!
+2025-12-08 at 19:43:21 | INFO | Бот успешно запущен.
+2025-12-08 at 19:43:24 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:43:24 | INFO | Запись не найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:44:14 | ERROR | Бот остановлен!
+2025-12-08 at 19:44:16 | INFO | Бот успешно запущен.
+2025-12-08 at 19:44:19 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:44:19 | INFO | Запись не найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:44:19 | INFO | Добавление записи User с параметрами: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:44:19 | INFO | Запись User успешно добавлена.
+2025-12-08 at 19:44:28 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:44:28 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:44:47 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134592_7581528974390802632', 'price': 199}
+2025-12-08 at 19:44:47 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 19:45:04 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 19:47:57 | ERROR | Бот остановлен!
+2025-12-08 at 19:48:26 | INFO | Бот успешно запущен.
+2025-12-08 at 19:48:28 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:48:28 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:50:09 | ERROR | Бот остановлен!
+2025-12-08 at 19:50:12 | INFO | Бот успешно запущен.
+2025-12-08 at 19:50:14 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:50:14 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:50:15 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:50:15 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:50:21 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 19:50:24 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 19:54:27 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 19:54:27 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:32:17 | ERROR | Бот остановлен!
+2025-12-08 at 20:49:44 | INFO | Бот успешно запущен.
+2025-12-08 at 20:49:48 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:49:48 | INFO | Запись не найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:49:48 | INFO | Добавление записи User с параметрами: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:49:48 | INFO | Запись User успешно добавлена.
+2025-12-08 at 20:50:10 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:50:10 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:50:25 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134628_7581545889137400028', 'price': 199}
+2025-12-08 at 20:50:25 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 20:50:30 | ERROR | Бот остановлен!
+2025-12-08 at 20:59:42 | INFO | Бот успешно запущен.
+2025-12-08 at 20:59:44 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:59:44 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:59:45 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:59:45 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:59:47 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:59:47 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 20:59:47 | INFO | Поиск всех записей Purchase по фильтрам: {'user_id': 1}
+2025-12-08 at 20:59:47 | INFO | Найдено 1 записей.
+2025-12-08 at 21:00:14 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:00:14 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:00:29 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134649_7581548485985029316', 'price': 199}
+2025-12-08 at 21:00:29 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 21:00:32 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:00:32 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:00:35 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:00:35 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:00:35 | INFO | Поиск всех записей Purchase по фильтрам: {'user_id': 1}
+2025-12-08 at 21:00:35 | INFO | Найдено 2 записей.
+2025-12-08 at 21:00:38 | ERROR | Бот остановлен!
+2025-12-08 at 21:13:09 | INFO | Бот успешно запущен.
+2025-12-08 at 21:13:12 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:12 | INFO | Запись не найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:12 | INFO | Добавление записи User с параметрами: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:12 | INFO | Запись User успешно добавлена.
+2025-12-08 at 21:13:14 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:14 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:30 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134659_7581551835882149800', 'price': 199}
+2025-12-08 at 21:13:30 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 21:13:30 | INFO | Поиск одной записи User по фильтрам: {'id': 1}
+2025-12-08 at 21:13:30 | INFO | Запись найдена по фильтрам: {'id': 1}
+2025-12-08 at 21:13:32 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:32 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:33 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:33 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:13:33 | INFO | Поиск всех записей Purchase по фильтрам: {'user_id': 1}
+2025-12-08 at 21:13:33 | INFO | Найдено 1 записей.
+2025-12-08 at 21:13:41 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 21:13:51 | ERROR | Бот остановлен!
+2025-12-08 at 21:20:49 | INFO | Бот успешно запущен.
+2025-12-08 at 21:20:52 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:20:52 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:20:55 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 21:21:11 | INFO | Статистика успешно получена: {'total_users': 1, 'new_today': 1, 'new_week': 1, 'new_month': 1}
+2025-12-08 at 21:22:28 | ERROR | Бот остановлен!
+2025-12-08 at 21:22:31 | INFO | Бот успешно запущен.
+2025-12-08 at 21:22:33 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:22:33 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:24:11 | ERROR | Бот остановлен!
+2025-12-08 at 21:24:14 | INFO | Бот успешно запущен.
+2025-12-08 at 21:24:15 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:24:15 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:25:01 | ERROR | Бот остановлен!
+2025-12-08 at 21:25:04 | INFO | Бот успешно запущен.
+2025-12-08 at 21:25:05 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:25:05 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:26:22 | ERROR | Бот остановлен!
+2025-12-08 at 21:26:25 | INFO | Бот успешно запущен.
+2025-12-08 at 21:26:27 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:26:27 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:27:13 | ERROR | Бот остановлен!
+2025-12-08 at 21:27:17 | INFO | Бот успешно запущен.
+2025-12-08 at 21:27:17 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:27:17 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:27:54 | ERROR | Бот остановлен!
+2025-12-08 at 21:27:57 | INFO | Бот успешно запущен.
+2025-12-08 at 21:28:00 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:28:00 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:28:22 | ERROR | Бот остановлен!
+2025-12-08 at 21:49:51 | INFO | Бот успешно запущен.
+2025-12-08 at 21:51:20 | ERROR | Бот остановлен!
+2025-12-08 at 21:51:24 | INFO | Бот успешно запущен.
+2025-12-08 at 21:51:26 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx4uAG1EnWGRvPEyfAmNhWVdDqVC62VVvXKixpAvvn2M2le522WAQ2t5dQYJtui-aqN8HpKIvspiyOz6irlcXVxpbQ=='}
+2025-12-08 at 21:51:26 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx4uAG1EnWGRvPEyfAmNhWVdDqVC62VVvXKixpAvvn2M2le522WAQ2t5dQYJtui-aqN8HpKIvspiyOz6irlcXVxpbQ=='}
+2025-12-08 at 21:52:30 | ERROR | Бот остановлен!
+2025-12-08 at 21:52:33 | INFO | Бот успешно запущен.
+2025-12-08 at 21:52:33 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx5xasbGn_vpTyEjX-ajxw_qZgGOGsp2LLGBL-UIFF14OyTe7zSwqmOdaLVcrD1rfhJqnfZufgPx4-cE5P_w4MwGPw=='}
+2025-12-08 at 21:52:33 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx5xasbGn_vpTyEjX-ajxw_qZgGOGsp2LLGBL-UIFF14OyTe7zSwqmOdaLVcrD1rfhJqnfZufgPx4-cE5P_w4MwGPw=='}
+2025-12-08 at 21:52:33 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNx5xasbGn_vpTyEjX-ajxw_qZgGOGsp2LLGBL-UIFF14OyTe7zSwqmOdaLVcrD1rfhJqnfZufgPx4-cE5P_w4MwGPw==', 'username_encrypted': 'gAAAAABpNx5xo-xeMv2JU0XImcm_WZzHcnVJh9OMpWcxmpwTOe2XcnnLAiHyraELUZGuntTsBaLWxIvvrPjmPtwo2sqhulhWmg=='}
+2025-12-08 at 21:52:33 | INFO | Запись User успешно добавлена.
+2025-12-08 at 21:52:48 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 21:52:48 | ERROR | Ошибка при поиске записи по фильтрам {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}: Entity namespace for "users" has no property "telegram_hash"
+2025-12-08 at 21:54:46 | ERROR | Бот остановлен!
+2025-12-08 at 21:54:50 | INFO | Бот успешно запущен.
+2025-12-08 at 21:54:51 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx770JzEj7YoUvmFtU3FPVDogOytzV4juOU-xYx3RL4H4D07IygF6N7h9DAmj9v7DGPaWbAkKvb-K4FtY2ycroVxTQ=='}
+2025-12-08 at 21:54:51 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx770JzEj7YoUvmFtU3FPVDogOytzV4juOU-xYx3RL4H4D07IygF6N7h9DAmj9v7DGPaWbAkKvb-K4FtY2ycroVxTQ=='}
+2025-12-08 at 21:54:51 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNx770JzEj7YoUvmFtU3FPVDogOytzV4juOU-xYx3RL4H4D07IygF6N7h9DAmj9v7DGPaWbAkKvb-K4FtY2ycroVxTQ==', 'username_encrypted': 'gAAAAABpNx77OBzm1Y9rslRg60B-UZD8vNnMuPGrdtZ-j0A6d1rAeNGuQM-a-EDF1I20tQ7sDaTZdVQuU5WvVeYqpOvanuWkJw=='}
+2025-12-08 at 21:54:51 | INFO | Запись User успешно добавлена.
+2025-12-08 at 21:54:54 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx7-38qSbNsM7QuQAgx1o_plAeW7jWNZ4P9WcTbilT4sOUmjCzU8AmaC6poVlJYGPHdvhe3bNt9CEn1vr_14XIz8Dw=='}
+2025-12-08 at 21:54:54 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNx7-38qSbNsM7QuQAgx1o_plAeW7jWNZ4P9WcTbilT4sOUmjCzU8AmaC6poVlJYGPHdvhe3bNt9CEn1vr_14XIz8Dw=='}
+2025-12-08 at 21:55:31 | ERROR | Бот остановлен!
+2025-12-08 at 21:56:02 | INFO | Бот успешно запущен.
+2025-12-08 at 21:56:06 | ERROR | Бот остановлен!
+2025-12-08 at 21:59:14 | INFO | Бот успешно запущен.
+2025-12-08 at 21:59:17 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAFHL13OYDe7VZSNA3zajj2RF63w9XfTU5_p2YpNl2nc1gMKqflDslImrCoNHpiLNX9NjVQrMe8U26swvIpM21vvg=='}
+2025-12-08 at 21:59:17 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAFHL13OYDe7VZSNA3zajj2RF63w9XfTU5_p2YpNl2nc1gMKqflDslImrCoNHpiLNX9NjVQrMe8U26swvIpM21vvg=='}
+2025-12-08 at 21:59:17 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNyAFHL13OYDe7VZSNA3zajj2RF63w9XfTU5_p2YpNl2nc1gMKqflDslImrCoNHpiLNX9NjVQrMe8U26swvIpM21vvg==', 'username_encrypted': 'gAAAAABpNyAFOu3_1KtfTcSZwFi18IXriUWL5sNL8ofL58fo8Bz-7tRyCcd4HAzAyGrQj-O-pUlONCksVwpOePJnTjXhU5MZeg=='}
+2025-12-08 at 21:59:17 | INFO | Запись User успешно добавлена.
+2025-12-08 at 21:59:18 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAGzs7Rd_FyUQrgAo50Iv9Zkebljfe5K-r31g6927ckFkQf_2DTvteotyGSq4mxpbOyL3fcwUpthTMS1zGBj35LyA=='}
+2025-12-08 at 21:59:18 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAGzs7Rd_FyUQrgAo50Iv9Zkebljfe5K-r31g6927ckFkQf_2DTvteotyGSq4mxpbOyL3fcwUpthTMS1zGBj35LyA=='}
+2025-12-08 at 21:59:22 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAKRv9132u7nN0vDi33qG2wECAdvOaEzFImHxUTrNZOpX5QSn5KGmEqAHgsBABYRDBNUasuamHSRIndkO_BXSIouw=='}
+2025-12-08 at 21:59:22 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAKRv9132u7nN0vDi33qG2wECAdvOaEzFImHxUTrNZOpX5QSn5KGmEqAHgsBABYRDBNUasuamHSRIndkO_BXSIouw=='}
+2025-12-08 at 21:59:22 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNyAKRv9132u7nN0vDi33qG2wECAdvOaEzFImHxUTrNZOpX5QSn5KGmEqAHgsBABYRDBNUasuamHSRIndkO_BXSIouw==', 'username_encrypted': 'gAAAAABpNyAKnHilwLjttK1nAIZ0YnuMXtq5vFL7tnAVSYbhF2q26lOTFgPFygD6nD3-zv-RLqrsgapLVdv-w67cX2UteF7cnw=='}
+2025-12-08 at 21:59:22 | INFO | Запись User успешно добавлена.
+2025-12-08 at 21:59:34 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAWqX1SvY01NQr7u0VkTWdtdLWEhuHHPTxzuug1DorNyVcSuhjGau6yHfymTJauj1hMsC0y6r6-x1Jv5cq7TkDjaA=='}
+2025-12-08 at 21:59:34 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyAWqX1SvY01NQr7u0VkTWdtdLWEhuHHPTxzuug1DorNyVcSuhjGau6yHfymTJauj1hMsC0y6r6-x1Jv5cq7TkDjaA=='}
+2025-12-08 at 21:59:34 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNyAWqX1SvY01NQr7u0VkTWdtdLWEhuHHPTxzuug1DorNyVcSuhjGau6yHfymTJauj1hMsC0y6r6-x1Jv5cq7TkDjaA==', 'username_encrypted': 'gAAAAABpNyAWqEK8oGNTXndBx-k24pT4hJfyZHNYOE3pwbTwlGMhK1Z-ZxJk6AiAhiarWhfrxC1Cxmzz1vaJTe0r3Dtkrrnspw=='}
+2025-12-08 at 21:59:34 | INFO | Запись User успешно добавлена.
+2025-12-08 at 21:59:41 | ERROR | Бот остановлен!
+2025-12-08 at 22:02:07 | INFO | Бот успешно запущен.
+2025-12-08 at 22:02:32 | ERROR | Бот остановлен!
+2025-12-08 at 22:02:35 | INFO | Бот успешно запущен.
+2025-12-08 at 22:02:36 | INFO | cmd_start: real_tg_id=942106914, tg_id_enc=gAAAAABpNyDMdi8xhDu7jkhT1SlfUskwuIrIzLMNRarQ_rQCHc8wHExUM-7POhR7YLjmLUX9dnM2yr8CxZh_L3YrS6UO_YjjNw==
+2025-12-08 at 22:02:36 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDMdi8xhDu7jkhT1SlfUskwuIrIzLMNRarQ_rQCHc8wHExUM-7POhR7YLjmLUX9dnM2yr8CxZh_L3YrS6UO_YjjNw=='}
+2025-12-08 at 22:02:36 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDMdi8xhDu7jkhT1SlfUskwuIrIzLMNRarQ_rQCHc8wHExUM-7POhR7YLjmLUX9dnM2yr8CxZh_L3YrS6UO_YjjNw=='}
+2025-12-08 at 22:02:52 | ERROR | Бот остановлен!
+2025-12-08 at 22:02:55 | INFO | Бот успешно запущен.
+2025-12-08 at 22:02:56 | INFO | cmd_start: real_tg_id=942106914, tg_id_enc=gAAAAABpNyDghY4HCBfJ66u7Q3BlBU3yaZaR34HckrxD-RKYMIUyfSc6lVi37JfGFY28FWfuTxAqJcFIk_whc7DZlkj9GdnzVQ==
+2025-12-08 at 22:02:56 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDghY4HCBfJ66u7Q3BlBU3yaZaR34HckrxD-RKYMIUyfSc6lVi37JfGFY28FWfuTxAqJcFIk_whc7DZlkj9GdnzVQ=='}
+2025-12-08 at 22:02:56 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDghY4HCBfJ66u7Q3BlBU3yaZaR34HckrxD-RKYMIUyfSc6lVi37JfGFY28FWfuTxAqJcFIk_whc7DZlkj9GdnzVQ=='}
+2025-12-08 at 22:02:56 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNyDghY4HCBfJ66u7Q3BlBU3yaZaR34HckrxD-RKYMIUyfSc6lVi37JfGFY28FWfuTxAqJcFIk_whc7DZlkj9GdnzVQ==', 'username_encrypted': 'gAAAAABpNyDgIchAqIazh0uEnGYfpggyW1Y6Y7iZELzB4xCdiyVJ4nt3FRa1BA8aJqAnAQ9glZuwTBfei4TY3yPuZphALnchhg=='}
+2025-12-08 at 22:02:56 | INFO | Запись User успешно добавлена.
+2025-12-08 at 22:02:56 | INFO | cmd_start: created user id=1, enc=gAAAAABpNyDghY4HCBfJ66u7Q3BlBU3yaZaR34HckrxD-RKYMIUyfSc6lVi37JfGFY28FWfuTxAqJcFIk_whc7DZlkj9GdnzVQ==
+2025-12-08 at 22:03:07 | INFO | buy_1m: real_tg_id=942106914, tg_id_enc=gAAAAABpNyDreDK3rXVbdYaqdpABSaCDLeGlehPP_uV6dcPItHe_KxveYTX00A9P_NU6Go2QY8SM1-AhTBBC7a3nKj1F8pvnrA==
+2025-12-08 at 22:03:07 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDreDK3rXVbdYaqdpABSaCDLeGlehPP_uV6dcPItHe_KxveYTX00A9P_NU6Go2QY8SM1-AhTBBC7a3nKj1F8pvnrA=='}
+2025-12-08 at 22:03:07 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDreDK3rXVbdYaqdpABSaCDLeGlehPP_uV6dcPItHe_KxveYTX00A9P_NU6Go2QY8SM1-AhTBBC7a3nKj1F8pvnrA=='}
+2025-12-08 at 22:03:07 | WARNING | buy_1m: user not found in DB
+2025-12-08 at 22:03:15 | INFO | cmd_start: real_tg_id=942106914, tg_id_enc=gAAAAABpNyDzZ0i1DWvx1pIYckvo8Bpr3bREoK3J5MQEvlVqbaelEtt0kOo7Qohe8XqnWF7T1Aa48jeoEc2eYuRr4f8MElb25g==
+2025-12-08 at 22:03:15 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDzZ0i1DWvx1pIYckvo8Bpr3bREoK3J5MQEvlVqbaelEtt0kOo7Qohe8XqnWF7T1Aa48jeoEc2eYuRr4f8MElb25g=='}
+2025-12-08 at 22:03:15 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyDzZ0i1DWvx1pIYckvo8Bpr3bREoK3J5MQEvlVqbaelEtt0kOo7Qohe8XqnWF7T1Aa48jeoEc2eYuRr4f8MElb25g=='}
+2025-12-08 at 22:03:15 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNyDzZ0i1DWvx1pIYckvo8Bpr3bREoK3J5MQEvlVqbaelEtt0kOo7Qohe8XqnWF7T1Aa48jeoEc2eYuRr4f8MElb25g==', 'username_encrypted': 'gAAAAABpNyDzI_-80e22lYK6iphf9djo96SV-yYZ3stiU955f5QtpqTYh2XiE7oabdfNUWk1qFCZf2a2yhv0fbQBvx6rC_k4-Q=='}
+2025-12-08 at 22:03:15 | INFO | Запись User успешно добавлена.
+2025-12-08 at 22:03:15 | INFO | cmd_start: created user id=2, enc=gAAAAABpNyDzZ0i1DWvx1pIYckvo8Bpr3bREoK3J5MQEvlVqbaelEtt0kOo7Qohe8XqnWF7T1Aa48jeoEc2eYuRr4f8MElb25g==
+2025-12-08 at 22:04:46 | ERROR | Бот остановлен!
+2025-12-08 at 22:06:31 | INFO | Бот успешно запущен.
+2025-12-08 at 22:06:34 | INFO | cmd_start: real_tg_id=942106914, tg_id_enc=gAAAAABpNyG6YAFgRj3HLal0vrObJJofIf60kEBHG-4fBHFulYg089C54m5KgwREzBMi87f8itivKSYLhkRAK2jKn5IgD69mBA==
+2025-12-08 at 22:06:34 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyG6YAFgRj3HLal0vrObJJofIf60kEBHG-4fBHFulYg089C54m5KgwREzBMi87f8itivKSYLhkRAK2jKn5IgD69mBA=='}
+2025-12-08 at 22:06:34 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyG6YAFgRj3HLal0vrObJJofIf60kEBHG-4fBHFulYg089C54m5KgwREzBMi87f8itivKSYLhkRAK2jKn5IgD69mBA=='}
+2025-12-08 at 22:06:34 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNyG6YAFgRj3HLal0vrObJJofIf60kEBHG-4fBHFulYg089C54m5KgwREzBMi87f8itivKSYLhkRAK2jKn5IgD69mBA==', 'username_encrypted': 'gAAAAABpNyG68Ukp997DJNQZyE9ga8orop8xbF9M5Y3gX8u176A6eAoPDY1j2JEmZIX84gKyvR7gIB3YRj7XOwCR35tEqEA6gQ=='}
+2025-12-08 at 22:06:34 | INFO | Запись User успешно добавлена.
+2025-12-08 at 22:06:34 | INFO | cmd_start: created user id=3, enc=gAAAAABpNyG6YAFgRj3HLal0vrObJJofIf60kEBHG-4fBHFulYg089C54m5KgwREzBMi87f8itivKSYLhkRAK2jKn5IgD69mBA==
+2025-12-08 at 22:06:35 | INFO | buy_1m: real_tg_id=942106914, tg_id_enc=gAAAAABpNyG7raQuj3KAnzu0iJkczO2plWT_cKNjPCJiQmbjHRJiXWVNsNRBfptRFwQFFGfA1q_IANPOlykWqg-E3olrdDoVvw==
+2025-12-08 at 22:06:35 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyG7raQuj3KAnzu0iJkczO2plWT_cKNjPCJiQmbjHRJiXWVNsNRBfptRFwQFFGfA1q_IANPOlykWqg-E3olrdDoVvw=='}
+2025-12-08 at 22:06:35 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyG7raQuj3KAnzu0iJkczO2plWT_cKNjPCJiQmbjHRJiXWVNsNRBfptRFwQFFGfA1q_IANPOlykWqg-E3olrdDoVvw=='}
+2025-12-08 at 22:06:35 | WARNING | buy_1m: user not found in DB
+2025-12-08 at 22:06:38 | INFO | cmd_start: real_tg_id=942106914, tg_id_enc=gAAAAABpNyG-QmzCI6bXsg7Ne6UxvMKja1vPTFxSju4qlUYAZKP-AeQ2PVL_nhUFDhr7izL-WaDpp0Z6-x1kKMlGYVtGu9yx4w==
+2025-12-08 at 22:06:38 | INFO | Поиск одной записи User по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyG-QmzCI6bXsg7Ne6UxvMKja1vPTFxSju4qlUYAZKP-AeQ2PVL_nhUFDhr7izL-WaDpp0Z6-x1kKMlGYVtGu9yx4w=='}
+2025-12-08 at 22:06:38 | INFO | Запись не найдена по фильтрам: {'telegram_id_encrypted': 'gAAAAABpNyG-QmzCI6bXsg7Ne6UxvMKja1vPTFxSju4qlUYAZKP-AeQ2PVL_nhUFDhr7izL-WaDpp0Z6-x1kKMlGYVtGu9yx4w=='}
+2025-12-08 at 22:06:38 | INFO | Добавление записи User с параметрами: {'telegram_id_encrypted': 'gAAAAABpNyG-QmzCI6bXsg7Ne6UxvMKja1vPTFxSju4qlUYAZKP-AeQ2PVL_nhUFDhr7izL-WaDpp0Z6-x1kKMlGYVtGu9yx4w==', 'username_encrypted': 'gAAAAABpNyG-3BlGWktlIFOI615WnZ033qQNewnfSV3yLK5Vsvy_h3UtstuoVOz4A7mIu88NA5JI0L-ihRXwUCOrUvbPzmdZRA=='}
+2025-12-08 at 22:06:38 | INFO | Запись User успешно добавлена.
+2025-12-08 at 22:06:38 | INFO | cmd_start: created user id=4, enc=gAAAAABpNyG-QmzCI6bXsg7Ne6UxvMKja1vPTFxSju4qlUYAZKP-AeQ2PVL_nhUFDhr7izL-WaDpp0Z6-x1kKMlGYVtGu9yx4w==
+2025-12-08 at 22:06:49 | ERROR | Бот остановлен!
+2025-12-08 at 22:17:18 | INFO | Бот успешно запущен.
+2025-12-08 at 22:17:23 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:17:23 | INFO | Запись не найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:18:15 | ERROR | Бот остановлен!
+2025-12-08 at 22:18:30 | INFO | Бот успешно запущен.
+2025-12-08 at 22:18:32 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:18:32 | INFO | Запись не найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:18:32 | INFO | Добавление записи User с параметрами: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae', 'telegram_id_encrypted': 'gAAAAABpNySI7uTcAlCKEx5QnmHiys82juy5iWbGlbw_Z-EFUdLRTGz7neQGdwoaCapT9Lk3LT2eegJm6QE2mgZihvwCr6Lj9A==', 'username_encrypted': 'gAAAAABpNySInTczCnmQ2Iz_LAtxWUcsNKV1hedimAIvT46Uih4xY_8euccf9u8NSV9DeCxZdPt0ghIHDRF9nYkgxBRLMybZiQ=='}
+2025-12-08 at 22:18:32 | INFO | Запись User успешно добавлена.
+2025-12-08 at 22:18:35 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:18:35 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:19:12 | ERROR | Бот остановлен!
+2025-12-08 at 22:19:16 | INFO | Бот успешно запущен.
+2025-12-08 at 22:19:16 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:19:16 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:22:39 | INFO | Бот успешно запущен.
+2025-12-08 at 22:22:40 | ERROR | Бот остановлен!
+2025-12-08 at 22:22:58 | INFO | Бот успешно запущен.
+2025-12-08 at 22:23:01 | INFO | cmd_start: real_tg_id=942106914, tg_hash=0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae
+2025-12-08 at 22:23:01 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:01 | INFO | Запись не найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:01 | INFO | Добавление записи User с параметрами: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:01 | INFO | Запись User успешно добавлена.
+2025-12-08 at 22:23:01 | INFO | cmd_start: created user id=1, hash=0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae
+2025-12-08 at 22:23:04 | INFO | buy_1m: real_tg_id=942106914, tg_hash=0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae
+2025-12-08 at 22:23:04 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:04 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:24 | INFO | Добавление записи Purchase с параметрами: {'user_id': 1, 'payment_id': '8370655260_942106914_1134767_7581569843993608960', 'price': 199}
+2025-12-08 at 22:23:24 | INFO | Запись Purchase успешно добавлена.
+2025-12-08 at 22:23:24 | INFO | Поиск одной записи User по фильтрам: {'id': 1}
+2025-12-08 at 22:23:24 | INFO | Запись найдена по фильтрам: {'id': 1}
+2025-12-08 at 22:23:49 | INFO | cmd_start: real_tg_id=942106914, tg_hash=0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae
+2025-12-08 at 22:23:49 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:49 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:49 | INFO | cmd_start: user FOUND id=1
+2025-12-08 at 22:23:56 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:56 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:58 | INFO | Поиск одной записи User по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:58 | INFO | Запись найдена по фильтрам: {'telegram_hash': '0206b4bfcfd154845ccf7deb0416a9744550498db331695cb4323bfe423f60ae'}
+2025-12-08 at 22:23:58 | INFO | Поиск всех записей Purchase по фильтрам: {'user_id': 1}
+2025-12-08 at 22:23:58 | INFO | Найдено 1 записей.

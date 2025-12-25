@@ -1,0 +1,8 @@
+aiogram
+aiosqlite
+loguru
+pydantic-settings
+SQLAlchemy
+pydantic
+alembic
+cryptography

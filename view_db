@@ -1,0 +1,48 @@
+cat > ~/view_db << 'EOF'
+#!/bin/bash
+# 100% рабочий способ открыть БД в SQLite Browser
+# Использование: view_db
+
+cd ~/projects/tg_bot 2>/dev/null || { echo "Перейди в папку проекта: cd ~/projects/tg_bot"; exit 1; }
+
+echo "🔄 Подготовка БД для SQLite Browser..."
+
+# 1. Останавливаем ВСЕ процессы Python из этого проекта
+echo "▸ Останавливаю бота..."
+pkill -f "python.*tg_bot" 2>/dev/null
+pkill -f "python.*main.py" 2>/dev/null
+pkill -f "alembic" 2>/dev/null
+
+# 2. Ждем 2 секунды чтобы все закрылось
+sleep 2
+
+# 3. Проверяем, что БД существует
+if [ ! -f "data/db.sqlite3" ]; then
+    echo "❌ Файл БД не найден: data/db.sqlite3"
+    exit 1
+fi
+
+# 4. Создаем копию БД в /tmp (это гарантирует отсутствие блокировок)
+COPY_PATH="/tmp/db_$(whoami)_$(date +%s).sqlite3"
+echo "▸ Создаю копию: $COPY_PATH"
+cp data/db.sqlite3 "$COPY_PATH"
+
+# 5. Меняем права на копию (на всякий случай)
+chmod 644 "$COPY_PATH"
+
+# 6. Открываем копию в SQLite Browser
+echo "▸ Открываю SQLite Browser..."
+echo "📁 Оригинал: $(pwd)/data/db.sqlite3"
+echo "📁 Копия: $COPY_PATH"
+
+# Запускаем SQLite Browser
+if command -v sqlitebrowser &> /dev/null; then
+    sqlitebrowser "$COPY_PATH" &
+    echo "✅ SQLite Browser запущен"
+    echo "💡 После просмотра можно удалить копию: rm '$COPY_PATH'"
+else
+    echo "❌ SQLite Browser не установлен"
+    echo "Установи: sudo apt install sqlitebrowser"
+    echo "Или открой в консоли: sqlite3 '$COPY_PATH'"
+fi
+EOF
