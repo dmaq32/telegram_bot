@@ -26,6 +26,8 @@ bot = Bot(token=settings.BOT_TOKEN, default=DefaultBotProperties(parse_mode=Pars
 dp = Dispatcher(storage=MemoryStorage())
 admins = settings.ADMIN_IDS
 
-log_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log.txt")
+log_dir = os.path.join("/tmp", "tg_bot_logs")
+os.makedirs(log_dir, exist_ok=True)
+log_file_path = os.path.join(log_dir, "bot.log")
 logger.add(log_file_path, format=settings.FORMAT_LOG, level="INFO", rotation=settings.LOG_ROTATION)
 database_url = settings.DB_URL

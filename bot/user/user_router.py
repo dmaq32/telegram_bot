@@ -57,12 +57,10 @@ async def page_home(call: CallbackQuery):
 async def page_about(call: CallbackQuery, session_without_commit: AsyncSession):
     await call.answer("Профиль")
 
-    # Получаем статистику покупок пользователя
     purchases = await UserDAO.get_purchase_statistics(session=session_without_commit, telegram_id=call.from_user.id)
     total_amount = purchases.get("total_amount", 0)
     total_purchases = purchases.get("total_purchases", 0)
 
-    # Формируем сообщение в зависимости от наличия покупок
     if total_purchases == 0:
         await call.message.answer(
             text="🔍 <b>У вас пока нет покупок.</b>\n\n"
@@ -131,7 +129,6 @@ async def view_purchases(call: CallbackQuery, session_without_commit: AsyncSessi
 
     hashed_id = hash_telegram_id(call.from_user.id)
 
-    # Находим пользователя по хешу
     user = await UserDAO.find_one_or_none(
         session=session_without_commit,
         filters={"telegram_hash": hashed_id}
@@ -144,7 +141,6 @@ async def view_purchases(call: CallbackQuery, session_without_commit: AsyncSessi
         )
         return
 
-    # Получаем все покупки этого пользователя
     purchases = await PurchaseDao.find_all(
         session=session_without_commit,
         filters={"user_id": user.id}

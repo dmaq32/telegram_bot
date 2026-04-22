@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+.DS_Store
+
+bot/__pycache__/
+bot/admin/__pycache__/
+bot/user/__pycache__/
+bot/dao/__pycache__/
+bot/migration/__pycache__/
+bot/migration/versions/__pycache__/
+
+data/db.sqlite3
